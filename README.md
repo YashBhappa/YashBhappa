@@ -68,11 +68,48 @@ Here are some ideas to get you started:
        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
 </p>-->
 
-
-<!--  stats -->
-<!--
--<h3 align="left">Stats:</h3>
--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashBhappa&show_icons=true&locale=en&layout=compact" alt="YashBhappa" /></p>
--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YashBhappa&show_icons=true&locale=en" alt="YashBhappa" /></p>
--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YashBhappa&" alt="YashBhappa" /></p>
+<!-- <p>
+<img src="https://img.shields.io/badge/HTML-5E4633?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS-5E4633?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/Sass-5E4633?style=for-the-badge&logo=sass&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/Bootstrap-5E4633?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-5E4633?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+<img src="https://img.shields.io/badge/JavaScript-5E4633?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/jQuery-5E4633?style=for-the-badge&logo=jquery&logoColor=0769AD"/>
+<img src="https://img.shields.io/badge/TypeScript-5E4633?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Node.js-5E4633?style=for-the-badge&logo=node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express.js-5E4633?style=for-the-badge&logo=express&logoColor=000000"/>
+<img src="https://img.shields.io/badge/React-5E4633?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Redux-5E4633?style=for-the-badge&logo=redux&logoColor=764ABC"/>
+<img src="https://img.shields.io/badge/Angular-5E4633?style=for-the-badge&logo=angular&logoColor=DD0031"/>
+<img src="https://img.shields.io/badge/Vue.js-5E4633?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/Laravel-5E4633?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
+<img src="https://img.shields.io/badge/Flask-5E4633?style=for-the-badge&logo=flask&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Django-5E4633?style=for-the-badge&logo=django&logoColor=092E20"/>
+<img src="https://img.shields.io/badge/C-5E4633?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+<img src="https://img.shields.io/badge/C++-5E4633?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/C%23-5E4633?style=for-the-badge&logo=c-sharp&logoColor=239120"/>
+<img src="https://img.shields.io/badge/Python-5E4633?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Scala-5E4633?style=for-the-badge&logo=scala&logoColor=DC322F"/>
+<img src="https://img.shields.io/badge/Java-5E4633?style=for-the-badge&logo=java&logoColor=007396"/>
+<img src="https://img.shields.io/badge/Kotlin-5E4633?style=for-the-badge&logo=kotlin&logoColor=0095D5"/>
+<img src="https://img.shields.io/badge/Android-5E4633?style=for-the-badge&logo=android&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/Dart-5E4633?style=for-the-badge&logo=dart&logoColor=0175C2"/>
+<img src="https://img.shields.io/badge/Flutter-5E4633?style=for-the-badge&logo=flutter&logoColor=02569B"/>
+<img src="https://img.shields.io/badge/Go-5E4633?style=for-the-badge&logo=go&logoColor=00ADD8"/>
+<img src="https://img.shields.io/badge/Lua-5E4633?style=for-the-badge&logo=lua&logoColor=2C2D72"/>
+<img src="https://img.shields.io/badge/MySQL-5E4633?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/PostgreSQL-5E4633?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+<img src="https://img.shields.io/badge/MongoDB-5E4633?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/Firebase-5E4633?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+<img src="https://img.shields.io/badge/Docker-5E4633?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Kubernetes-5E4633?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+</p>
 -->
+
+<!--  stats> -->
+
+<h3 align="left">Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashBhappa&show_icons=true&locale=en&layout=compact" alt="YashBhappa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YashBhappa&show_icons=true&locale=en" alt="YashBhappa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YashBhappa&" alt="YashBhappa" /></p>
