@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 <!--  trophy  -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YashBhappa" alt="YashBhappa" /> </p>  -->
 
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/YashBhappa" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Yash Bhappa" height="40" width="50" />
 <a href="https://www.linkedin.com/in/yash-bhappa-0552a5131//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yash Bhappa" height="40" width="50" />
 <a href="https://instagram.com/_.yashbhappa._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Yash Bhappa" height="40" width="50" />
-</p>
+</p>-->
 
 <!--
 <p align="left">
@@ -108,8 +109,9 @@ Here are some ideas to get you started:
 -->
 
 <!--  stats> -->
-
+<!--
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashBhappa&show_icons=true&locale=en&layout=compact" alt="YashBhappa" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YashBhappa&show_icons=true&locale=en" alt="YashBhappa" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YashBhappa&" alt="YashBhappa" /></p>
+-->
