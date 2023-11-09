@@ -1,117 +1,36 @@
-### Hi there 👋
-
+Hi,
 <!--
-**YashBhappa/YashBhappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact-->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.yashbhappa._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YashBhappa) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@YashBhappa) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yashbhappa) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/yashbhappa) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22201630) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yashbhappa) 
 
-<!--  trophy  -->
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YashBhappa" alt="YashBhappa" /> </p>  -->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YashBhappa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YashBhappa&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashBhappa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!--
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/YashBhappa" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Yash Bhappa" height="40" width="50" />
-<a href="https://www.linkedin.com/in/yash-bhappa-0552a5131//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yash Bhappa" height="40" width="50" />
-<a href="https://instagram.com/_.yashbhappa._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Yash Bhappa" height="40" width="50" />
-</p>-->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=YashBhappa&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-<!--
-<p align="left">
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="65" height="65"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="55" height="65"/>
-      <img src="https://github.com/cheesits456/cheesits456/blob/master/icons/express.png" alt="express" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="65"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width=55 height=65/>
-      <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width=55 height=65/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="55" height="65"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="55" height="65"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="65"/>  
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="55" height="65"/>  
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="55" height="65"/>  
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="scala" width="75" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/kotlin/kotlin-icon.svg" alt="kotlin" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="55" height="55"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="55" height="65"/>  
-      <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/lua/lua-official.svg" alt="lua" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="kubernetes" width="55" height="55"/>
-       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-</p>-->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- <p>
-<img src="https://img.shields.io/badge/HTML-5E4633?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS-5E4633?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/Sass-5E4633?style=for-the-badge&logo=sass&logoColor=CC6699"/>
-<img src="https://img.shields.io/badge/Bootstrap-5E4633?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-5E4633?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
-<img src="https://img.shields.io/badge/JavaScript-5E4633?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/jQuery-5E4633?style=for-the-badge&logo=jquery&logoColor=0769AD"/>
-<img src="https://img.shields.io/badge/TypeScript-5E4633?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/Node.js-5E4633?style=for-the-badge&logo=node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Express.js-5E4633?style=for-the-badge&logo=express&logoColor=000000"/>
-<img src="https://img.shields.io/badge/React-5E4633?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Redux-5E4633?style=for-the-badge&logo=redux&logoColor=764ABC"/>
-<img src="https://img.shields.io/badge/Angular-5E4633?style=for-the-badge&logo=angular&logoColor=DD0031"/>
-<img src="https://img.shields.io/badge/Vue.js-5E4633?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-<img src="https://img.shields.io/badge/Laravel-5E4633?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
-<img src="https://img.shields.io/badge/Flask-5E4633?style=for-the-badge&logo=flask&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Django-5E4633?style=for-the-badge&logo=django&logoColor=092E20"/>
-<img src="https://img.shields.io/badge/C-5E4633?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
-<img src="https://img.shields.io/badge/C++-5E4633?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/C%23-5E4633?style=for-the-badge&logo=c-sharp&logoColor=239120"/>
-<img src="https://img.shields.io/badge/Python-5E4633?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Scala-5E4633?style=for-the-badge&logo=scala&logoColor=DC322F"/>
-<img src="https://img.shields.io/badge/Java-5E4633?style=for-the-badge&logo=java&logoColor=007396"/>
-<img src="https://img.shields.io/badge/Kotlin-5E4633?style=for-the-badge&logo=kotlin&logoColor=0095D5"/>
-<img src="https://img.shields.io/badge/Android-5E4633?style=for-the-badge&logo=android&logoColor=3DDC84"/>
-<img src="https://img.shields.io/badge/Dart-5E4633?style=for-the-badge&logo=dart&logoColor=0175C2"/>
-<img src="https://img.shields.io/badge/Flutter-5E4633?style=for-the-badge&logo=flutter&logoColor=02569B"/>
-<img src="https://img.shields.io/badge/Go-5E4633?style=for-the-badge&logo=go&logoColor=00ADD8"/>
-<img src="https://img.shields.io/badge/Lua-5E4633?style=for-the-badge&logo=lua&logoColor=2C2D72"/>
-<img src="https://img.shields.io/badge/MySQL-5E4633?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/PostgreSQL-5E4633?style=for-the-badge&logo=postgresql&logoColor=336791"/>
-<img src="https://img.shields.io/badge/MongoDB-5E4633?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/Firebase-5E4633?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-<img src="https://img.shields.io/badge/Docker-5E4633?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Kubernetes-5E4633?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
-</p>
--->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=YashBhappa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<!--  stats> -->
-<!--
-<h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashBhappa&show_icons=true&locale=en&layout=compact" alt="YashBhappa" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YashBhappa&show_icons=true&locale=en" alt="YashBhappa" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YashBhappa&" alt="YashBhappa" /></p>
--->
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=YashBhappa&icon=2&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yashbhappa) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yashbhappa) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
